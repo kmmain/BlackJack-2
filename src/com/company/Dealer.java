@@ -8,4 +8,7 @@ import java.util.LinkedList;
 public class Dealer extends Computer {
     Deck deck = new Deck();
 
+    public void deal(Player player) {
+
+    }
 }
