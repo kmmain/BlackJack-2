@@ -1,9 +1,12 @@
 package com.company;
 
-import java.util.LinkedList;
-
 /**
- * Created by student2 on 14.11.16.
+ * Created by falyanguzov on 14.11.2016.
  */
 public class Computer extends Player {
+    public Computer(Intellect intellect, String name) {
+        super(intellect,name);
+
+
+    }
 }
